@@ -1,4 +1,4 @@
-This repository builds upon code made by Maytal Katz from the same lab (Ilan Lampl, Dept of Brain Sciences, Weizmann Institute of Science) which [processes behavior data](https://github.com/maytalkatz/Psychometric-Data-Analysis).
+This repository builds upon code made by Maytal Katz from the Lampl lab (Dept of Brain Sciences, Weizmann Institute of Science), which [processes behavior data](https://github.com/maytalkatz/Psychometric-Data-Analysis).
 
 The aims of this repository include:
 1. Adding a front-end Jupyter notebook to enable ease-of-use
