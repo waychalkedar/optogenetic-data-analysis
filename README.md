@@ -8,5 +8,5 @@ This repository contains:
 2. The front-end Jupyter notebook `behav_analysis.ipynb` which walks the user through the gross processing pipeline to generate plots for specific [optogenetic](https://en.wikipedia.org/wiki/Optogenetics) stimulations.
 3. The folder `C2` containing behavior data that is to be analyzed.
 
-This repository uses an old version of the module [`psignifit`](https://doi.org/10.5281/zenodo.14750140) developed by the [Wichmann lab](doi:10.1016/j.visres.2016.02.002). 
+This repository uses an old version of the module [`psignifit`](https://doi.org/10.5281/zenodo.14750140) developed by the [Wichmann lab](https://www.sciencedirect.com/science/article/pii/S0042698916000390?via%3Dihub). 
 
